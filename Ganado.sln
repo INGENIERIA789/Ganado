@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GANADO_BS", "GANADOBS\GANADO_BS.csproj", "{6DA849E1-862F-4E92-B137-F173F1FA81A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GANADO_DS", "GANADODS\GANADO_DS.csproj", "{8462862F-A583-4E1F-B515-E101418F7F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APLICATION_PS", "APLICATION_PS\APLICATION_PS.csproj", "{6CD5A401-53B8-480B-91C4-1CF126225AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA849E1-862F-4E92-B137-F173F1FA81A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA849E1-862F-4E92-B137-F173F1FA81A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA849E1-862F-4E92-B137-F173F1FA81A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA849E1-862F-4E92-B137-F173F1FA81A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8462862F-A583-4E1F-B515-E101418F7F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8462862F-A583-4E1F-B515-E101418F7F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8462862F-A583-4E1F-B515-E101418F7F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8462862F-A583-4E1F-B515-E101418F7F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD5A401-53B8-480B-91C4-1CF126225AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD5A401-53B8-480B-91C4-1CF126225AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD5A401-53B8-480B-91C4-1CF126225AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD5A401-53B8-480B-91C4-1CF126225AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
