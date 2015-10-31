@@ -30,7 +30,7 @@ namespace APLICATION_PS.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("GanadoConnectionString", throwIfV1Schema: false)
         {
         }
 
